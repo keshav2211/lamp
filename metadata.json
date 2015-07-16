@@ -1,0 +1,14 @@
+{
+  "name": "keshav-lamp",
+  "version": "0.1.0",
+  "author": "Keshav",
+  "summary": "module to setup lamp environment",
+  "license": "apache 2.0",
+  "source": "github",
+  "project_page": "docs",
+  "issues_url": "na",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
